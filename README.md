@@ -8,7 +8,7 @@ Repository for running the ATLAS-SUSY-2019-04 analysis using SimpleAnalysis
 docker pull gitlab-registry.cern.ch/atlas-sa/simple-analysis
 ```
 
-2. Generate a root file using MG5+HepMC+Delphes.
+2. Generate a root file using MG5+Pythia8+HepMC+Delphes.
 
 3. Convert the Delphes root file to a trimmed root file:
 
