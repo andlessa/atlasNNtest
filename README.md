@@ -1,5 +1,5 @@
 # atlasNN
-Repository for running the ATLAS-SUSY-2019-04 analysis using SimpleAnalysis
+Repository for running the [ATLAS-SUSY-2019-04](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-04/) analysis using [SimpleAnalysis](https://simpleanalysis.docs.cern.ch/)
 
 
 1. Install the analysis:
