@@ -41,5 +41,9 @@ define l- = e- mu-
 define vl = ve vm vt
 define vl~ = ve~ vm~ vt~
 import model MSSM_SLHA2
-generate p p > n2 n1
-output ../../testHiggsino2
+add process p p > n2 n1
+add process p p > x1- n1
+add process p p > x1+ n1
+add process p p > x1- n2
+add process p p > x1+ n2
+output ../../testHiggsino
